@@ -1,37 +1,37 @@
 function buttonAction1() {
-  window.location.href = "a_insertionsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/insertion_sort/a_insertionsort.html";
 }
 
 function buttonAction2() {
-  window.location.href = "b_bubblesort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/bubble_sort/b_bubblesort.html";
 }
 
 function buttonAction3() {
-  window.location.href = "c_selectionsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/selection_sort/c_selectionsort.html";
 }
 
 function buttonAction4() {
-  window.location.href = "d_mergesort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/merge_sort/d_mergesort.html";
 }
 
 function buttonAction5() {
-  window.location.href = "e_quicksort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/quick_sort/e_quicksort.html";
 }
 
 function buttonAction6() {
-  window.location.href = "f_heapsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/heap_sort/f_heapsort.html";
 }
 
 function buttonAction7() {
-  window.location.href = "g_countsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/count_sort/g_countsort.html";
 }
 
 function buttonAction8() {
-  window.location.href = "h_radixsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/radix_sort/h_radixsort.html";
 }
 
 function buttonAction9() {
-  window.location.href = "i_bucketsort.html"; // Replace with the path to your new HTML page
+  window.location.href = "algorithms/bucket_sort/i_bucketsort.html";
 }
 
 function buttonAction10() {

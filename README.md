@@ -2,29 +2,29 @@
 
 ### HTML Files
 
-- `a_insertionsort.html`: Visualization for Insertion Sort
-- `b_bubblesort.html`: Visualization for Bubble Sort
-- `c_selectionsort.html`: Visualization for Selection Sort
-- `d_mergesort.html`: Visualization for Merge Sort
-- `e_quicksort.html`: Visualization for Quick Sort
-- `f_heapsort.html`: Visualization for Heap Sort
-- `g_countsort.html`: Visualization for Count Sort
-- `h_radixsort.html`: Visualization for Radix Sort
-- `i_bucketsort.html`: Visualization for Bucket Sort
+- `algorithms/insertion_sort/a_insertionsort.html`: Visualization for Insertion Sort
+- `algorithms/bubble_sort/b_bubblesort.html`: Visualization for Bubble Sort
+- `algorithms/selection_sort/c_selectionsort.html`: Visualization for Selection Sort
+- `algorithms/merge_sort/d_mergesort.html`: Visualization for Merge Sort
+- `algorithms/quick_sort/e_quicksort.html`: Visualization for Quick Sort
+- `algorithms/heap_sort/f_heapsort.html`: Visualization for Heap Sort
+- `algorithms/count_sort/g_countsort.html`: Visualization for Count Sort
+- `algorithms/radix_sort/h_radixsort.html`: Visualization for Radix Sort
+- `algorithms/bucket_sort/i_bucketsort.html`: Visualization for Bucket Sort
 - `main.html`: Main page for the project
 - `visualization.html`: General visualization page
 
 ### JavaScript Files
 
-- `bubblesort.js`: Implementation of Bubble Sort
-- `BucketSort.js`: Implementation of Bucket Sort
-- `CountSort.js`: Implementation of Count Sort
-- `HeapSort.js`: Implementation of Heap Sort
-- `InsertionSort.js`: Implementation of Insertion Sort
-- `MergeSort.js`: Implementation of Merge Sort
-- `QuickSort.js`: Implementation of Quick Sort
-- `RadixSort.js`: Implementation of Radix Sort
-- `SelectionSort.js`: Implementation of Selection Sort
+- `algorithms/bubble_sort/bubblesort.js`: Implementation of Bubble Sort
+- `algorithms/bucket_sort/BucketSort.js`: Implementation of Bucket Sort
+- `algorithms/count_sort/CountSort.js`: Implementation of Count Sort
+- `algorithms/heap_sort/HeapSort.js`: Implementation of Heap Sort
+- `algorithms/insertion_sort/InsertionSort.js`: Implementation of Insertion Sort
+- `algorithms/merge_sort/MergeSort.js`: Implementation of Merge Sort
+- `algorithms/quick_sort/QuickSort.js`: Implementation of Quick Sort
+- `algorithms/radix_sort/RadixSort.js`: Implementation of Radix Sort
+- `algorithms/selection_sort/SelectionSort.js`: Implementation of Selection Sort
 - `script.js`: General script for the project
 
 ### CSS Files
@@ -42,10 +42,6 @@
 2. Open `main.html` in your web browser to view the main page.
 
 3. Navigate to the specific HTML file for the sorting algorithm you want to visualize.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have any improvements or bug fixes.
 
 ## License
 
